@@ -1,4 +1,4 @@
-# antispoofing_DA_PS
+# Replay Anti-spoofing Countermeasure based on Data Augmentation with Post Selection
 This repo is for storing the resources used in the submission about data augmentation with post selection for replay anti-spoofing.
 
 Contents:
