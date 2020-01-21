@@ -8,5 +8,4 @@ Contents:
 4. Post_selection: contains two post filter, one is CNN and another is SVM based. 
 5. SD_systems: contains the deep learning based detection system. The GMM baseline system is released by the challenge organizers. 
 
-Detailed user's manual will be complete in the near future. 
 For any questions, please open issues or contact Yuanjun Zhao (yuanjun.zhao@research.uwa.edu.au)
